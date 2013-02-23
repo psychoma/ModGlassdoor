@@ -11,7 +11,7 @@
 /mcp/*
 !/mcp/src/
 /mcp/src/minecraft/*
-!/mcp/src/minecraft/hsb/
+!/mcp/src/minecraft/glassdoor/
 !/mcp/src/minecraft/mcmod.info
 
 
