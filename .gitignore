@@ -1,0 +1,28 @@
+#############
+## Minecraft
+#############
+/client/*
+/common/*
+/fml/*
+/patches/*
+
+## Mod Code
+/srcBackup/
+/mcp/*
+!/mcp/src/
+/mcp/src/minecraft/*
+!/mcp/src/minecraft/hsb/
+!/mcp/src/minecraft/mcmod.info
+
+
+*.bat
+*.sh
+*.py
+*.pyc
+*.properties
+*.cmd
+
+*.txt
+!README.txt
+
+CHANGELOG
