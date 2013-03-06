@@ -12,7 +12,7 @@ public class ItemAdamantiumSword extends ItemSword{
 		super(id, EnumToolMaterial.EMERALD);
 		//Position in der tex.png
 		this.iconIndex = 1;
-		this.setCreativeTab(CreativeTabs.tabMaterials);
+		this.setCreativeTab(CreativeTabs.tabCombat);
 	}
 
 	//dateipfad der Textur
