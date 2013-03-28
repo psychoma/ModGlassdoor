@@ -61,6 +61,7 @@ public class ModGlassdoor {
 	public void postinit(FMLPostInitializationEvent evt){
 		//Schmelz Rezepte einführen
 		GameRegistry.addSmelting(blockadamantiumore.blockID, new ItemStack(itemadamantiumingot), 5);
+		//Crafting Rezepte einführen
 		GameRegistry.addRecipe(new ItemStack(itemadamantiumsword), new Object[]
 				{
 					" A ", " A "," S ",
